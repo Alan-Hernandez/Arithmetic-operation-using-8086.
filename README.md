@@ -11,8 +11,11 @@ Personal Computer with MASM Software
 
 # Algorithm
 Initialize memory location in HL register.
+
 Store 1st data.
+
 Increment HL to enter 2nd data.
+
 Move 2nd number to accumulator.
 Decrement HL.
 Add value in memory with accumulator.
